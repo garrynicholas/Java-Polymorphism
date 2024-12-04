@@ -4,7 +4,6 @@
  */
 package matematika;
 
-import java.util.Scanner;
 
 /**
  *
